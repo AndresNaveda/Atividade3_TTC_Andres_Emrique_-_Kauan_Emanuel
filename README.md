@@ -1,4 +1,4 @@
-# Atividade3_TTC_Andres_Emrique_&_Kauan_Emanuel
+# Atividade3_TTC_Andres_Enrique_&_Kauan_Emanuel
 
 # Sistema LoRa - Atividade 3
 
